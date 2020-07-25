@@ -1,0 +1,4 @@
+﻿// Sequencia
+1 - Instalar Pacote "PDFSharpCore"
+2 - Criar uma pasta dentro de wwwroot para colocação da imagem a ser utilizada no relatório
+3 - Método no HomeController denominado Download
